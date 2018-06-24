@@ -1,0 +1,4 @@
+﻿  myGraph.cpp
+c:\users\marco meza\source\repos\mygraph\mygraph\mygraph.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\mygraph\mygraph\mygraph.cpp(187): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  myGraph.vcxproj -> C:\Users\Marco Meza\source\repos\myGraph\Debug\myGraph.exe

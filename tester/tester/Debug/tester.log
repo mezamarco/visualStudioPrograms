@@ -1,0 +1,2 @@
+﻿  tester.cpp
+c:\users\marco meza\source\repos\tester\tester\tester.cpp(10): error C4700: uninitialized local variable 'i' used

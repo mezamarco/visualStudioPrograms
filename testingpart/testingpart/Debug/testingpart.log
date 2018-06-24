@@ -1,0 +1,5 @@
+﻿  testingpart.cpp
+c:\users\marco meza\source\repos\testingpart\testingpart\testingpart.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\testingpart\testingpart\testingpart.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\testingpart\testingpart\testingpart.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  testingpart.vcxproj -> C:\Users\Marco Meza\source\repos\testingpart\Debug\testingpart.exe
