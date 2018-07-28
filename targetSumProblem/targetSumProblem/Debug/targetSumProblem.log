@@ -1,3 +1,4 @@
-﻿  targetSumProblem.cpp
+﻿  stdafx.cpp
+  targetSumProblem.cpp
 c:\users\marco meza\source\repos\targetsumproblem\targetsumproblem\targetsumproblem.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   targetSumProblem.vcxproj -> C:\Users\Marco Meza\source\repos\targetSumProblem\Debug\targetSumProblem.exe

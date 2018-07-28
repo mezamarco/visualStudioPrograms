@@ -1,0 +1,7 @@
+﻿  mySortingAlgorithms.cpp
+c:\users\marco meza\source\repos\mysortingalgorithms\mysortingalgorithms\mysortingalgorithms.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marco meza\source\repos\mysortingalgorithms\mysortingalgorithms\mysortingalgorithms.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\mysortingalgorithms\mysortingalgorithms\mysortingalgorithms.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\mysortingalgorithms\mysortingalgorithms\mysortingalgorithms.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\mysortingalgorithms\mysortingalgorithms\mysortingalgorithms.cpp(196): warning C4018: '<': signed/unsigned mismatch
+  mySortingAlgorithms.vcxproj -> C:\Users\Marco Meza\source\repos\mySortingAlgorithms\Debug\mySortingAlgorithms.exe

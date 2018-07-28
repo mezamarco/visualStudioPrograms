@@ -1,7 +1,6 @@
 ﻿  Chapter1.cpp
-c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(265): warning C4018: '<': signed/unsigned mismatch
-c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(444): warning C4018: '<': signed/unsigned mismatch
-c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(526): warning C4018: '<': signed/unsigned mismatch
-c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(570): warning C4715: 'binarySearch': not all control paths return a value
+c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\marco meza\source\repos\chapter1\chapter1\chapter1.cpp(546): warning C4018: '<': signed/unsigned mismatch
   Chapter1.vcxproj -> C:\Users\Marco Meza\source\repos\Chapter1\Debug\Chapter1.exe

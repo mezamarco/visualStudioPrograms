@@ -70,6 +70,8 @@ void LinkedList::removeDuplicates() {
 	myMap[current->data] = 0;
 	int i = 1;
 
+	
+
 	while (current->nextPtr != nullptr) {
 		//Place the contents into our map if it is not a duplicate.
 
